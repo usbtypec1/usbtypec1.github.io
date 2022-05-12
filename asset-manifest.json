@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/usbtypec1/usbtypec1.github.io/static/css/main.92bfc94f.css",
+    "main.js": "/usbtypec1/usbtypec1.github.io/static/js/main.9cde8290.js",
+    "index.html": "/usbtypec1/usbtypec1.github.io/index.html",
+    "main.92bfc94f.css.map": "/usbtypec1/usbtypec1.github.io/static/css/main.92bfc94f.css.map",
+    "main.9cde8290.js.map": "/usbtypec1/usbtypec1.github.io/static/js/main.9cde8290.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92bfc94f.css",
+    "static/js/main.9cde8290.js"
+  ]
+}
